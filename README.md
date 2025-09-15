@@ -8,4 +8,4 @@ or High categories .It also calculates the total and average of 4 systolic BP re
 
 How To Use
 
-Compile each C program using a C compiler ,run the compiled program an follow on-screen prompts to input values.
+Compile each C program using a C compiler ,run the compiled program and follow on-screen prompts to input values.
